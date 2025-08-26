@@ -1,3 +1,13 @@
+## 💜 Olá, meu nome é {seu nome}!
+
+Faça uma breve apresentação sobre você e a sua stack.
+
+🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+
+💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+
+---
+
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
@@ -12,7 +22,9 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
-
+## 🚀 Minhas Skills
 [![My Skills](https://skillicons.dev/icons?i=java,git,bitbucket,c,express,figma,jenkins,linux,mongodb,postgres,js,html,css)](https://skillicons.dev)
 
+
+## ⭐ GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariardsilva&show_icons=true&theme=synthwave)
