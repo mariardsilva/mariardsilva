@@ -1,30 +1,38 @@
-## 💜 Olá, meu nome é {seu nome}!
+# 👋 Hi, I’m Maria Eduarda Rodrigues da Silva!
 
-Faça uma breve apresentação sobre você e a sua stack.
-
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💻 I’m a Software Engineering student and aspiring developer passionate about **technology**, **programming**, and **problem solving**.  
+Currently studying **Object-Oriented Programming** and building projects that combine theory and practice using **Java**, **Node.js**, and **relational databases**.
 
 ---
 
-### Experiência de trabalho
+## 🚀 Technologies & Skills
+- 🌐 **Backend:** Java, Node.js (Express)
+- 🗄️ **Database:** SQLite, file handling (CSV, TXT)
+- 🎨 **Frontend:** Java Swing, basic HTML/CSS
+- 📚 **Core Concepts:** Object-Oriented Programming (OOP), Data Structures
+- ⚙️ **Tools:** Git, GitHub, Insomnia/Postman, VS Code, IntelliJ IDEA
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+---
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+## 📌 Featured Projects
+- **Movies & Reviews API (Node.js + SQLite):** Full CRUD with Express and database persistence.  
 
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
-<br/>
+---
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+## 🎯 Goals
+- Deepen my knowledge in **backend development** and **databases**.  
+- Improve **OOP practices** and **system design skills**.  
+- Contribute to **collaborative and open-source projects**.  
 
-## 🚀 Minhas Skills
-[![My Skills](https://skillicons.dev/icons?i=java,git,bitbucket,c,express,figma,jenkins,linux,mongodb,postgres,js,html,css)](https://skillicons.dev)
+---
 
+## 📬 Let’s Connect!
+- ✉️ **Email:** mariardsilva1117@gmail.com  
+- 🌐 **LinkedIn:** [ linkedin.com/in/maria-eduarda-rodrigues-da-silva-308a0424a](#)
+
+---
 
 ## ⭐ GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariardsilva&show_icons=true&theme=synthwave)
+
+✨ Thanks for visiting my profile! 🚀
