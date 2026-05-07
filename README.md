@@ -30,9 +30,4 @@ Currently studying **Object-Oriented Programming** and building projects that co
 - ✉️ **Email:** mariardsilva1117@gmail.com  
 - 🌐 **LinkedIn:** [ linkedin.com/in/maria-eduarda-rodrigues-da-silva-308a0424a](#)
 
----
-
-## ⭐ GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariardsilva&show_icons=true&theme=synthwave)
-
 ✨ Thanks for visiting my profile! 🚀
