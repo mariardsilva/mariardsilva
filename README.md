@@ -1,16 +1,29 @@
 # 👋 Hi, I’m Maria Eduarda Rodrigues da Silva!
 
-💻 I’m a Software Engineering student and aspiring developer passionate about **technology**, **programming**, and **problem solving**.  
-Currently studying **Object-Oriented Programming** and building projects that combine theory and practice using **Java**, **Node.js**, and **relational databases**.
+📊 I’m a Software Engineering student currently working as a Project Manager Intern, supporting technology and data-driven initiatives. I’m passionate about project organization, stakeholder coordination, and turning technical requirements into clear, executable plans. I combine a strong technical foundation with project management practices, acting as a bridge between business and engineering teams.
 
 ---
 
-## 🚀 Technologies & Skills
-- 🌐 **Backend:** Java, Node.js (Express)
-- 🗄️ **Database:** SQLite, file handling (CSV, TXT)
-- 🎨 **Frontend:** Java Swing, basic HTML/CSS
-- 📚 **Core Concepts:** Object-Oriented Programming (OOP), Data Structures
-- ⚙️ **Tools:** Git, GitHub, Insomnia/Postman, VS Code, IntelliJ IDEA
+## 🚀 Areas of Focus & Skills
+
+🗂️ Project & Delivery
+- Project coordination and follow-ups
+- Stakeholder mapping and communication
+- UAT planning and scheduling
+- Requirements documentation and acceptance criteria (Given / When / Then)
+- Status reporting (executive & operational)
+- Cross-team and cross-country collaboration
+
+🛠️ Technical Background
+- Backend: Java, Node.js (Express)
+- Databases: SQLite, relational databases
+- Core Concepts: Object-Oriented Programming (OOP), Data Structures
+- APIs & Testing: REST APIs, Postman / Insomnia
+
+⚙️ Tools
+- Project & Collaboration: ADO, Jira, Miro, Microsoft Teams, Outlook
+- Data & Reporting: Power BI
+- Development: Git, GitHub, VS Code, IntelliJ IDEA, GitLab
 
 ---
 
@@ -20,9 +33,10 @@ Currently studying **Object-Oriented Programming** and building projects that co
 ---
 
 ## 🎯 Goals
-- Deepen my knowledge in **backend development** and **databases**.  
-- Improve **OOP practices** and **system design skills**.  
-- Contribute to **collaborative and open-source projects**.  
+- Grow as a Project Manager in technology environments
+- Strengthen skills in delivery management, system design, and data projects
+- Continue leveraging my engineering background to manage complex technical initiatives
+- Contribute to impactful, collaborative, and global projects
 
 ---
 
