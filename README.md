@@ -11,36 +11,54 @@
 ## 🚀 Areas of Focus & Skills
 
 🗂️ Project & Delivery
-- Project coordination and follow-ups
-- Stakeholder mapping and communication
-- UAT planning and scheduling
-- Requirements documentation and acceptance criteria (Given / When / Then)
-- Status reporting (executive & operational)
-- Cross-team and cross-country collaboration
+
+Project coordination and follow-ups
+
+Stakeholder mapping and communication
+
+UAT planning and scheduling
+
+Requirements documentation and acceptance criteria (Given / When / Then)
+
+Status reporting (executive & operational)
+
+Cross-team and cross-country collaboration
 
 🛠️ Technical Background
-- Backend: Java, Node.js (Express)
-- Databases: SQLite, relational databases
-- Core Concepts: Object-Oriented Programming (OOP), Data Structures
-- APIs & Testing: REST APIs, Postman / Insomnia
+
+Backend: Java, Node.js (Express)
+
+Databases: SQLite, relational databases
+
+Core Concepts: Object-Oriented Programming (OOP), Data Structures
+
+APIs & Testing: REST APIs, Postman / Insomnia
 
 ⚙️ Tools
-- Project & Collaboration: ADO, Jira, Miro, Microsoft Teams, Outlook
-- Data & Reporting: Power BI
-- Development: Git, GitHub, VS Code, IntelliJ IDEA, GitLab
+
+Project & Collaboration: ADO, Jira, Miro, Microsoft Teams, Outlook
+
+Data & Reporting: Power BI
+
+Development: Git, GitHub, VS Code, IntelliJ IDEA, GitLab
 
 ---
 
 ## 📌 Featured Projects
-- **Movies & Reviews API (Node.js + SQLite):** Full CRUD with Express and database persistence.  
+
+**Movies & Reviews API (Node.js + SQLite):** Full CRUD with Express and database persistence.  
 
 ---
 
 ## 🎯 Goals
-- Grow as a Project Manager in technology environments
-- Strengthen skills in delivery management, system design, and data projects
-- Continue leveraging my engineering background to manage complex technical initiatives
-- Contribute to impactful, collaborative, and global projects
+
+Grow as a Project Manager in technology environments
+
+Strengthen skills in delivery management, system design, and data projects
+
+Continue leveraging my engineering background to manage complex technical initiatives
+
+Contribute to impactful, collaborative, and global projects
 
 ---
 
