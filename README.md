@@ -50,5 +50,5 @@
 
 ✨ Thanks for visiting my profile! 🚀
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img center=true src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/>
 </p>
