@@ -1,4 +1,8 @@
 <img width="1000" src="https://i.pinimg.com/originals/28/9b/8d/289b8d2dad2ec024807e4cab0375d405.gif"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=200&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Maria%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+
+---
 
 📊 I’m a Software Engineering student currently working as a Project Manager Intern, supporting technology and data-driven initiatives. I’m passionate about project organization, stakeholder coordination, and turning technical requirements into clear, executable plans. I combine a strong technical foundation with project management practices, acting as a bridge between business and engineering teams.
 
@@ -45,3 +49,6 @@
 - 🌐 **LinkedIn:** [ linkedin.com/in/maria-eduarda-rodrigues-da-silva-308a0424a](#)
 
 ✨ Thanks for visiting my profile! 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
