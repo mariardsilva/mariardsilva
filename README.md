@@ -63,8 +63,10 @@ Contribute to impactful, collaborative, and global projects
 ---
 
 ## 📬 Let’s Connect!
-- ✉️ **Email:** mariardsilva1117@gmail.com  
-- 🌐 **LinkedIn:** [ linkedin.com/in/maria-eduarda-rodrigues-da-silva-308a0424a](#)
+
+✉️ **Email:** mariardsilva1117@gmail.com  
+
+🌐 **LinkedIn:** [ linkedin.com/in/maria-eduarda-rodrigues-da-silva-308a0424a](#)
 
 ✨ Thanks for visiting my profile! 🚀
 <p align="center">
